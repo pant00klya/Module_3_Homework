@@ -2,7 +2,7 @@ package Module3.Easy;
 
 import java.util.Scanner;
 
-public class homework {
+public class Homework {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Введите значение для а: ");

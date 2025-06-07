@@ -1,6 +1,6 @@
 package Module3.Middle;
 
-public class task3 {
+public class Task3 {
     public static void main(String[] args) {
         String s = "Hello Java!";
         System.out.println("Поиск символа J - " + s.indexOf('J'));

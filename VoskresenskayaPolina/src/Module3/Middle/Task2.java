@@ -2,7 +2,7 @@ package Module3.Middle;
 
 import java.util.Scanner;
 
-public class task2 {
+public class Task2 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Введите значение для переменной а: ");
