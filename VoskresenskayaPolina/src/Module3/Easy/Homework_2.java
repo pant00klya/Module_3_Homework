@@ -11,8 +11,8 @@ public class Homework_2 {
         double b = scanner.nextDouble();
         System.out.println("Введите вещественнное число с: ");
         double c = scanner.nextDouble();
-        double sum = a+b+c;
-        double mult = a*b*c;
+        double sum = a + b + c;
+        double mult = a * b * c;
         System.out.println("Сумма a, b, c = "+ sum + " Произведение a, b, c = "+ mult);
     }
 }
